@@ -19,7 +19,7 @@ function useInterval(callback, delay) {
   }, [delay]);
 }
 
-// Check to see if the current 
+// Check to see if the current object is empty or null
 const isEmpty = (obj) => {
   if (obj == null){
     return true
