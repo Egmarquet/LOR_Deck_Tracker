@@ -9,7 +9,7 @@
     "build": "babel index.js app.js -d bin/"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "proton-native": "^2.0.4"
   },
   "devDependencies": {
